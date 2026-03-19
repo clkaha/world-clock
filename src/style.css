@@ -82,6 +82,8 @@ select {
 	padding: 5px 10px;
 	border-radius: 0 10px 0 0;
 	align-self: stretch;
+	width: 30%;
+	text-align: right;
 }
 .cityanddate {
 	padding: 5px 10px;
